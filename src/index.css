@@ -1,0 +1,76 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar{
+  background-color: #8dc1e4!important;
+  
+}
+.navbar-brand{
+  font-size: 2rem;
+  color: #565387;
+}
+.navbar a{
+  font-size: 1.3rem;
+  color: white;
+  text-transform: capitalize;
+}
+
+.menu_active{
+  font-weight: bold;
+  border: 1px solid #565387;
+
+}
+
+.navbar a:hover{
+  color: #094f7e;
+}
+.menu_active{
+  font-weight: bold;
+  border-bottom: 2px solid black;
+}
+
+
+.btn-get-started{
+  border-radius: 25px;
+  width: 20%;
+  background-color: #3498db;
+
+  /* padding: 12px; */
+}
+
+.btn-get-started:hover{
+  color: #225674;
+  background-color: #fff;
+  border: 2px solid #225674;
+  border-radius: 35px;
+
+}
+
+.brand-name{
+  color: #3498db;
+}
+.mntop{
+  
+  margin-top: 6vw;
+ 
+}
+.mtop{
+  margin-top: 9vw;
+}
+.clNav{
+  background-color:#8dc1e4;
+}
+.shadow{
+  box-shadow: 10px 10px 55px 0px rgba(0,0,0,0.26);
+-webkit-box-shadow: 10px 10px 55px 0px rgba(0,0,0,0.26);
+-moz-box-shadow: 10px 10px 55px 0px rgba(0,0,0,0.26);
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 60px;
+padding-bottom: 80px;
+
+}
